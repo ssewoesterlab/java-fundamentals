@@ -28,5 +28,3 @@ Willkommen, max! Anmeldung erfolgreich.
 ## Prüffälle
 Passwörter stimmen bei Registrierung zunächst nicht überein; erster Login korrekt; dritter Fehlversuch; falscher Benutzername bei richtigem Passwort; leere Eingaben.
 
-## Freiwillige Erweiterung
-Trenne Registrierung und Anmeldung in eigene Methoden. Erkläre im README, warum Klartext-Passwörter und eine alleinige In-Memory-Prüfung **nicht** für produktive Systeme geeignet sind.
