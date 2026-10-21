@@ -29,7 +29,7 @@ public class _10_Passwortstaerke {
             return false;
         }
 
-        String sonderzeichen = "!@#$%^&*()_+-={}[];:',<.>/\\?";
+        String sonderzeichen = "!@#$%^&*()_+-={}[];:',<.>/?";
 
         boolean hatGrossbuchstabe = false;
         boolean hatKleinbuchstabe = false;
